@@ -14,7 +14,7 @@ double totalDistance = 0;
 
 void readCordinates() {
     string word;
-    ifstream list("/Users/mcucen/CLionProjects/automata/att48_xy.txt");
+    ifstream list("/Users/Elmas/att48_xy.txt");
     if (!list.is_open()) {
         cout << "Unable to open file";
         return;
