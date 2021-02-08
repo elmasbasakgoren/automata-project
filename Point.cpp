@@ -1,7 +1,3 @@
-//
-// Created by Mücahit Cücen on 23.05.2020.
-//
-
 #include "Point.h"
 #include <cmath>
 
